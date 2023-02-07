@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/cdepaula/cdepaula/blob/main/pic.png">
 
 - 🧠 FATEC - Prof. Jessen Vidal // E. E. Estevam Ferri<br>
-- ✨ Entre empregos na área de informática, tenho experiencia como suporte técnico e alanista de sistemas.<br>
+- ✨ Entre empregos na área de informática, tenho experiencia como suporte técnico e analista de sistemas.<br>
 - 💻 Revisando programação front-end básica, redes e UI/UX para retornar a área de computação.<br>
 - 📍  São José dos Campos - SP<br>
 - 🌱 26 anos<br>
